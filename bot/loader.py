@@ -3,7 +3,7 @@ from aiogram.fsm.storage.memory import MemoryStorage
 
 tech_chat = '-998130772'
 
-token = '6252782767:AAEsvskS3oDlXFMkkw0yTNgSM-oT18g9DAA'
+token = 'your_token'
 
 ADMIN = ['344150886',]
 
